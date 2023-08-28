@@ -2,13 +2,11 @@
 
 > A dashboard for all of your administration needs.
 
-## [Live Demo on Netlify](https://adminboss.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a62c955-4da0-4f05-aaf0-c7a824096e9e/deploy-status)](https://app.netlify.com/sites/adminme/deploys)
+## [Demo](https://adminboss.netlify.app/)
 
-<img src="https://github.com/alexisintech/adminme/blob/main/public/assets/dashboard.jpg" width="100%" />
+![dashboard](https://github.com/adriendorce/dashboard/assets/117544619/ee392ae5-0112-47e1-b81a-6ac819a6a538)
 
 
-### Global
 - Light and dark mode for accessibility
 - Collapsible side bar for increasing view width
 - Search bar (non-functional)
@@ -60,3 +58,4 @@ This project was one of the best learning experiences I have had so far. Some of
  - FullCalendar. The documentation is detailed and understandable.
  - Nivo charts - You can customize the charts right in the documentation and copy and paste the code into your project.
  - Formik + Yup : these tools were easier to use than React Hook.
+
