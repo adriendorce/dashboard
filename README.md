@@ -2,14 +2,19 @@
 
 > A dashboard for all of your administration needs.
 
-## [Demo](https://adminboss.netlify.app/)
+## [Live Demo on Netlify](https://adminboss.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a62c955-4da0-4f05-aaf0-c7a824096e9e/deploy-status)](https://app.netlify.com/sites/adminme/deploys)
 
-![dashboard](https://github.com/adriendorce/dashboard/assets/117544619/c45f1f4c-f3a0-4c41-acd4-cd3a2c03689d)
+<img src="https://github.com/alexisintech/adminme/blob/main/public/assets/dashboard.jpg" width="100%" />
 
 
+### Global
 - Light and dark mode for accessibility
 - Collapsible side bar for increasing view width
 - Search bar (non-functional)
+
+### Dashboard
+- Metrics, analytics, charts, and other data all viewable in one place (mock data was used)
 
 ### Data (Manage Team, Contacts Information, and Invoice Balances)
 - 3 tables with sort-by functionality use Data Grid to display mock data
