@@ -2,7 +2,7 @@
 
 > A dashboard for all of your administration needs.
 
-## [Demo](https://adminboss.netlify.app/)
+## [Demo](https://admin-boss.netlify.app/)
 
 ![dashboard](https://github.com/adriendorce/dashboard/assets/117544619/ee392ae5-0112-47e1-b81a-6ac819a6a538)
 
